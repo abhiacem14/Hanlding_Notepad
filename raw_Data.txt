@@ -1,1 +1,2 @@
 Today Sales : 100
+Today Sales : 500
